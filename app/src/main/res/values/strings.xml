@@ -1,0 +1,435 @@
+<resources>
+    <string name="app_name">Instagram Smart Guide</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Updates</string>
+    <string name="title_notifications">Videos</string>
+
+    <array name="Hidden_Features_Desc">
+        <item>Bu ipucu Hongkiat\’dan gelmektedir ve birçok kullanıcı tarafından Instagram\’ın
+            yapabileceğini bilmediği bir şeydir. Instagram\’ın Direkt özelliğini kullanarak,
+            yalnızca
+            seçtiğiniz insanlara resim gönderebilirsiniz (bunlardan en fazla 15 kişiye kadar).
+            "Instagram Direct\’i kullanmak için," Paylaş "sayfasındayken Direkt\’i seçin," site
+            "İzleyenler" in yanında en üstte bulunur. Ardından, alıcıların adlarının yanındaki
+            simgesine hafifçe vurarak veya \’To\’ alanına adlarını yazarak seçin. Gönder\’e basarak
+            bitirin. İletilerinizi görüntülemek için ana sayfanızın sağ üst köşesindeki tepsi
+            simgesine gidin. "
+        </item>
+        <item>Bu benim en sevdiğim Instagram özelliklerinden biridir. Uygulama, tüm resimlerinizin
+            çekildiği yerlerin bulunduğu bir haritayı (yani, etkin konum servisleriniz ve resimler
+            için coğrafi konumunuz sağlanır) görüntülemenizi sağlar. Instagram\’ınızı bir harita
+            üzerinde izlemek için profilinize gidin ve harita simgesine (tersine gitar seçmek gibi
+            görünüyorsunuz) dokunun.
+        </item>
+        <item>Devasa bir takip etmek isteyen Instagram kullanıcısıysanız, insanları çekmeniz
+            gerekecek. Bunu yapmak için genellikle popüler bir yıldız, marka veya çok tatlı bir kız
+            olmanız gerekir. Bununla birlikte, daha fazla takipçi elde etmek için popüler
+            hashtag\’ların kullanımını da kaldırabilirsiniz. "Popüler Instagram hashtag\’ları" için
+            basit bir Google araması, şu an trendin seyrini belirtir. Bununla birlikte, yalnızca
+            resminize uygun hashtag\’leri kullanın.
+        </item>
+        <item>Ancak belki de sizi bütün dünyayı takip etmek isteyen bir insan değilsiniz. Instagram
+            profilinizi gizli yapabileceğinizi biliyor muydunuz? Bu, yalnızca seçtiğiniz kişilerin
+            akışınızı görüntüleyebilmesini sağlar; çünkü sizi takip etmeyi istemek için onaylamanız
+            gerekir. Instagram hesabınızı özelleştirmek için profilinize gidin, ayarlara dokunun ve
+            ardından Özel Hesabı etkinleştirin.
+        </item>
+        <item>Instagram\’daki fotoğraf düzenini değiştirebileceğinizi biliyor muydunuz? Pocket
+            Lint\’in de belirttiği gibi, "Düzen yalnızca birden fazla fotoğrafı tek bir resimde
+            kolayca birleştirmenize olanak tanımakla kalmaz, aynı zamanda fotoğraflarınızı yeniden
+            mixleyerek benzersiz bir düzen oluşturmanıza olanak tanır. Kitaplığınızdan yüklerken,
+            resmin en ucunun sağında Mizanpaj uygulaması simgesini görürsünüz. Simgesine dokunun ve
+            ardından resim seçip devam ettirebilirsiniz, ardından istediğiniz düzeni seçin. "
+        </item>
+        <item>Instagram aslında akışınıza kısa filmler ve GIF\’ler yüklemenize izin veren birkaç
+            üçüncü taraf uygulamaları yapar. İlk uygulama, Hiperlapın olarak adlandırılır ve
+            iPhone\’unuzdan atlamalı fotoğraf çekmenizi sağlar. Ayrıca titrek videoyu düzeltecek
+            başka araçlar da vardır. İşiniz bittiğinde, Instagram özet akışınıza doğrudan yüklemek
+            için uygulamayı kullanın. \n\n İkinci uygulamalarına Boomerang denir ve Instagram\’da
+            mini video klipleri kaydetmenize, düzenlemenize ve paylaşmanıza olanak tanır.
+        </item>
+        <item>Instagram, harika bir uygulamaya sahip ancak masaüstü tarayıcılarında pek çok kişinin
+            ziyaret etmediği temel bir web sitesine sahip. Peki insanların Instagram resimlerinizi
+            web\’de görüntülemesini istiyorsanız ne olur? Yapmanız gereken en iyi şey onları kişisel
+            web sitenize yerleştirmektir. Bunu yapmak için www.instagram.com adresine gidin ve
+            hesabınıza giriş yapın. Gömmek istediğiniz resme tıklayın ve üçünü tıklayın. . .
+            Düğmesini tıklayın, daha sonra embed\’i tıklayın ve kopyalayıp HTML kodunu web sitenize
+            yapıştırın.
+        </item>
+        <item>Markanız için ilham almak istiyorsanız, neden kendi beğeninize uymuyorsunuz? Aslında
+            en son platformda beğendiğiniz 300 yayını görmek mümkündür. Dikkatinizi çeken şeyin ne
+            olduğunu görmek için bu yararlı bir egzersiz olabilir. \n\n Nasıl yapılır: \n\n
+            Profiline git \n\n Seçenekler\’e gitmek için iOS\’daki dişli çark simgesine veya
+            Android\’de ç noktaya hafifçe vurun \n\n Beğendiklerinize Mesaj Verin \n\n Not: Bu
+            özellik yalnızca uygulama içi çalışıyorsanız mobil cihazınızda kullanılabilir. Son
+            zamanlarda beğenilen yayınlarınızın güncellenmiş bir listesini masaüstünde görmek
+            isterseniz, Hootsuite gösterge tablonuza Instagram ekleyin ve bir Like akış oluşturun.
+        </item>
+        <item>Favori hesabınızdan tek bir yayın özledim olmadığınızdan emin olmak ister misiniz?
+            İtme bildirimlerini etkinleştirin. \n\n Nasıl yapılır: \n\n Için bildirim almak
+            istediğiniz hesabın profil sayfasını ziyaret edin. \n\n Ekranın sağ üst köşesindeki üç
+            nokta simgesine dokunun \n\n Bildirim Sonrasını Aç\’ı seçin \n\n Not: Zihninizi
+            değiştirdiyseniz, bildirimleri kapatma seçeneği aynı yerde yaşar
+        </item>
+        <item>Takip ettiğiniz insanların Instagram\’da ne yaptıklarını bilmek ister misiniz? Nelerin
+            ilgisini çektiğini net bir şekilde öğrenmek için, takip ettiğiniz hesaplar için
+            etkinlikleri (beğeniler ve yorumlar da dahil olmak üzere) görüntüleyin. \n\n Nasıl
+            yapılır: \n\n Etkinlik sekmesini ziyaret etmek için ekranın altındaki gezinme
+            çubuğundaki kalp simgesine dokunun \n\n Sekme varsayılan olarak Siz, ekranın üst
+            kısmındaki Takip seçeneğini seçmeniz yeterlidir.
+        </item>
+        <item>Instagram\’da birden fazla hesabınız var mı, belki de işiniz için, birisi kendiniz
+            için
+            mi? Farklı hesaplarda içerik yayınlamak, etkileşimde bulunmak ve içeriğe göz atmak için
+            sürekli giriş ve çıkış yapmaktan bıkıp mısınız? \n\n Şans eseri, bu oh-öylesine yaygın
+            problem için bir iki çözüm bulunmamaktadır. \n\n Instagram\’da nasıl yapılır: \n\n
+            Profilinizi ziyaret etmek için ekranın altındaki kişi simgesine dokunun \n\n
+            Seçenekler\’e gitmek için iOS\’daki dişli çark simgesine veya Android\’de ç noktaya
+            hafifçe
+            vurun \n\n Altına gidin ve Hesap Ekle\’yi seçin \n\n Yönetmek istediğiniz ikinci hesaba
+            ait kullanıcı adı ve şifreyi girin \n\n İkinci (veya üçüncü veya dördüncü) bir hesap
+            ekledikten sonra, gezinme çubuğundaki profil simgesi bir kişinin silüetinden profil
+            resminize değişir. \n\n Hesaplar arasında geçiş yapmak için, gezinme çubuğunda
+            hesaplarınızın bir menüsü görünene kadar profil resminize uzun süre basmanız yeterlidir
+            \n\n İstediğiniz hesabı seçin, sonra hızlıca kaydırın ve uzaklaşın \n\n Instagram Hacks:
+            Hakkınızda Muhtemelen Bilemediğiniz 44 Hileci ve Özellikler | Hootsuite Blog \n\n
+            Hootsuite\’de nasıl yaparım: \n\n Bir sosyal ağ eklemek için, başlatma menüsünün
+            üstünden
+            profil görüntüsünü seçin \n\n Hesap özetinin sol alt köşesinde Sosyal Ağ Ekle\’yi
+            tıklayın. \n\n Listeden eklemek istediğiniz sosyal ağınızı seçin (bu durumda, Instagram)
+            ve daha sonra Instagram\’a Bağlan\’ı tıklayın. \n\n Kimlik bilgilerinizi girin, ardından
+            oturum açmak için tıklayın. \n\n Ardından, Hootsuite mobil uygulamasında yayıncılık
+            kurmanız istenir \n\n Birden fazla hesap ekledikten sonra, farklı Instagram hesapları
+            için yayınları kolayca görüntüleyecek ve beğenilecek sekmeleri ayarlayabilir ve
+            yayınları bir tek gösterge tablosunda programlayabilirsiniz
+        </item>
+    </array>
+    <array name="Hidden_Features_Title">
+        <item>1. Yalnızca kişileri seçmek için resimleri gönderin</item>
+        <item>2. Fotoğraflarınızı bir haritada görüntüleyin</item>
+        <item>3. Daha popüler takipçiler çekmek için kullanıcı popüler hashtag\’ları</item>
+        <item>4. Hesabınızı gizli yapın</item>
+        <item>5. Fotoğrafların düzenini değiştirme</item>
+        <item>6. Hiper darbeler ve Boomerang\’lar oluşturun</item>
+        <item>7. Instagram resimlerinizi web üzerinde yerleştirin</item>
+        <item>8. Sevdiğiniz tüm mesajları görün</item>
+        <item>9. Favori hesaplarınız yeni içerik yayınladığında bildirim alın</item>
+        <item>10. İzlediğiniz hesaplar için etkinliğe bakın.</item>
+        <item>11. Birden fazla hesap ekleme ve yönetme</item>
+    </array>
+    <array name="New_Update_Desc">
+        <item>Instagram bugün, rakibi Snapchat\’ın hayranlarına çok aşina olacak yeni bir güncelleme
+            duyurdu. \n\n Sosyal medya uygulaması şimdi, kendi bedenlerinize hayvan kulakları veya
+            kelebek taç takma gibi canlı özel efektler katan bir dizi sekiz "Yüz Filtresi" ni
+            destekliyor. Bunların hepsi çok tanıdık gelirse, muhtemelen Snapchat\’ta bu özellikleri
+            gördüğünüz için muhtemeldir. \n\n Kamerayı açıp ekranın sağ alt köşesinde yeni bir yüz
+            simgesine dokunarak etkinleştirilen Yüz Filtreleri, ön veya arka yüz kamerasında
+            kullanılabilir ve Instagram\’ın kısa, döngülü \’Boomerang\’ video klipleri ile de
+            çalışabilir. Kayıtlar daha sonra Instagram öykünüze eklenebilir veya doğrudan app\’dan
+            arkadaşlarınıza gönderilebilir. \n\n Güncelleme ayrıca videolar için geriye doğru özel
+            bir efekt olarak oynatacak klipleri ve izleyicilerinizi basit bir dokunuşla ilgili
+            içeriğin bir sayfasına götüren yeni bir hashtag etiketini oluşturmanıza olanak tanıyan
+            videolara ilişkin bir \’Geri Sarma\’ modu da getiriyor. Hashtaglar, sadece atıflarda
+            olduğu gibi normal metin altında da eklenebilir. \n\n Ayrıca, uygulama şimdi adından da
+            anlaşılacağı gibi, çizilmiş olabilecek her bölümünü silecek bir silgi fırçası ekledi.
+            Instagram, tüm görüntüyü bir renkle kaplayarak ve ardından aşağıdaki fotoğrafı göstermek
+            için seçerek bölümleri silmek suretiyle bu özelliği yaratıcı bir şekilde kullanmanızı
+            önerir. \n\n Instagram\’ın şu anda 700 milyondan fazla aylık kullanıcısı var ve 200
+            milyondan fazla hikaye özelliğini her gün kullanıyor olması nedeniyle, özellikle en
+            popüler özelliklerini çoğaltmaya devam ederken Snapchat\’tan önde tutmak için çok
+            çalışmak zorunda değilsiniz. Yüz Filtreleri Snapchat\’ın tabutundaki son çivi miydi?
+            \n\n
+            Yeni özellikler artık iOS için Instagram sürüm 10.21\’de ve ayrıca Android\’de
+            mevcuttur.
+        </item>
+        <item>Bugün Instagram Öyküleri, Snapchat\’ın sevilen artırılmış gerçeklik selfie
+            filtrelerinin daha incelikli ve olgun ancak hata yaratmaya yarayan bir taklitçi ekledi.
+            Instagram\’ın çağırdığı sekiz ilk "yüz filtresi", tam olarak Snapchat gibi çalışır ve
+            sanal koala kulakları, nerd gözlükleri, kelebek tacı veya kırışıklık ekleme - kendinize
+            ve arkadaşlarınıza fotoğraflarda veya videolarda düzgün bir makyaj yapmanıza olanak
+            tanır. \n\n TechCrunch, filtreleri daha kullanışlı ve yüzünüzü o kadar çarpıtmayan
+            seçkin bir uygulamalı demoya sahip ancak hareketlerinizi takip etmeyin ve Snapchat\’ın
+            yanı sıra yüzünüzde de doğru konumda kalmayın. Aşağıda elimizdeki demo videosunu
+            izleyebilir ve birlikte takip edebilir ve Instagram\’ın VP Ürünü Kevin Weil ile
+            yazdığımız röportajımızı TechCrunch Disrupt\’ta postamızda izleyebilirsiniz:
+            Snapchat\’ın
+            kopyalanması için Instagram "Bu teknoloji endüstrisinin işleyişi" \n\n Yüz filtreleri,
+            Snap\’ın slayt paylaşımı biçimini, üst üste yerleştirilen yaratıcı araçları, doğrudan
+            iletileri ortadan kaldırmayı ve daha fazlasını kopyaladıktan sonra Instagram\’dan eksik
+            olan son Snapchat Öyküleri özelliğidir. Yeni kullanıcıların Instagram Öyküleri klonuyla
+            orijinal Snapchat Hikayelerini seçmeleri için zorlayıcı bir neden olmadan Instagram,
+            böylece, Snapchat\’ın 166 milyon toplam kullanıcısından daha fazla olan 200 milyon
+            günlük
+            Hikayesi kullanıcısına ekleme yaparak ve Snap\’ın büyüme hızını daha da yavaşlatarak
+            boşluğu daha da genişletebilirdi Geçen hafta zayıf kazançlar açıkladıktan sonra hisse
+            fiyatının yüzde 25\’ini kaybetmesine neden oldu. \n\n Yüz filtreleri ve üç yeni özellik,
+            bugün bir iOS ve Android uygulaması güncellemesi aracılığıyla tüm kullanıcılara
+            sunuluyor. Bir silgi aracı, bir görüntüye eklediğiniz çizgileri kaldırmanıza izin verir,
+            ancak Snapchat\’ın Sihirli Silgi gibi orijinal görüntüden nesneleri "Photoshop" yapamaz.
+            Instagram\’ın yeni Geri Alma modu, Snapchat\’ın en eski filtrelerinden biri gibi
+            videoları
+            tersine oynatır. \n\n En özgün yeni Instagram özelliği, bir yer etiketi gibi bir karma
+            etiket yazıp Stories yayınlarınıza yapışkan olarak ekleyebilmesidir. Görüntüleyenler bu
+            çıkartmalara dokunduğunda, bu hashtag ile diğer genel, kalıcı yayınları gösteren
+            Instagram hashtag sayfasına yönlendirilirler. Sonunda, Haklar\’ı hashtag ile arama veya
+            bu etikete sahip herkes tarafından görülebilen Hikayelerden derlenen "Hashtag Hikayesi"
+            ni izleme yeteneğini hayal edebiliyordunuz. Instagram aslında Yer Hikayelerini test
+            etmeye başladı. \n\n Yetişkinler için de yüz filtreleri \n\n Instagram sözcüsü
+            Snapchat\’ın yüz filtrelerini kopyalayan uygulamayla ilgili sorulduğunda, "Genişletilmiş
+            gerçeklerle ilgili çok sayıda heyecan verici çalışma yapıldı" dedi. "Topluluğumuzdan,
+            günlük anları paylaşmak ve arkadaşlarıyla etkileşim kurmak için daha yaratıcı yollar
+            istediklerini duyduk. Yüz filtreleri ile parmak uçlarında ve her yerde tek bir yerde
+            daha fazla araç var. \n\n Bu soru biraz ağırlaştırırken, son bölüm açıklanıyor.
+            Instagram, yaşınız ne olursa olsun, görsel iletişim için tek durak bir dükkan olmak
+            istiyor. Snapchat\’ın selfie maskelerindeki Instagram\’ın dönüşümü onları daha basit ve
+            daha tuhaf kılacak şekilde tasarlanmıştır, bu nedenle de gençlerin ötesinde
+            kullanıcılara hitap ediyorlar. Hikayeler içine girmediyseniz, Ana Filtreleme\’yi,
+            Instagram Direct ve Boomerang ile birlikte ana yayına göndermek isteyebileceğiniz
+            resimlerle de kullanabilirsiniz. \n\n Snapchat\’da olduğu gibi yüz filtrelerini
+            etkinleştirmek için ekrana dokunduğunuzu bilmeniz gerekmek yerine Instagram, bu erişim
+            noktasını gazi maske kullanıcıları için sezgisel bir şekilde çaldı, ancak ekranın
+            altındaki 8 filtrenin tepsisini ortaya çıkarmak için Smiley düğmesi ekledi. . \n\n
+            Instagram sözcüsü "Tasarımlar ve özel filtreler Instagram ekibi tarafından inşa edildi"
+            diyor. Geçen yıl kazanılan AR başlangıcına atıfta bulunarak, "Temel teknolojinin
+            MSQRD\’nin görüntüleme teknolojisi ve Facebook\’un uygulanmış makine öğrenme ekiplerinin
+            tescilli teknolojisi kullanıldığını" belirttiler. \n\n Instagram, kullanılabilir
+            filtrelerin genişletip genişletilmeyeceğini, döndürüleceğini veya gelip gitmeyeceğini
+            paylaşmayacaktı, ancak "topluluğa düzenli olarak daha fazla yüz filtresi getireceğiz"
+            diyorlardı. İlk kümeye kısaca bir bakış: \n\n Gold Crown - Çevrenizdeki Caesar tarzı
+            altın çelenk, bu filtre, filtrelere iyi bir giriş olacak kadar ince ve evrenseldir. \n\n
+            Koala - Bu sevimli filtre, Snapchat\’ın ikonik köpek süzgeci kadar sevimli olmamasına
+            rağmen, ağzınızı açtığınızda şaşkınlık yaratan bir Koala burun ve kulağı ekler. \n\n
+            Nerd Gözlükleri - Başınız etrafında bu bir matematik denklemi döndürür, aynı anda iki
+            kişiye görünebilir ve öne eğilirseniz burnunuzdan kayan gözlük özellikleri. \n\n Tavşan
+            - Snapchat\’ın köpek süzgecini dayamaya çalışılan bir başka girişimde, ağızınızı
+            açtığınızda bu kulaklar şaşkınlık yaratıyor ve yan yana öğrendiklerinizde katlanarak
+            yerçekimine tepki veriyorlar. \n\n Kelebek Taç - Instagram\’ın Snapchat\’ın Coachella
+            favori çiçek taçına girişimi, hareket ettikçe kafana bir kelebekler soluyor. \n\n Ice
+            Crown - Bu buz tacıyla kar taneleri dolanırken buharı teneffüs edersiniz. \n\n Tavuskuşu
+            - Ön plandaki dev mor tüyler sizi 1930\’ların hüznü beğenir gibi bakarken ileri doğru
+            eğildiğiniz zaman sizi ortaya çıkarana kadar sizi görüşten korur. \n\n Makyaj -
+            Instagram\’ın son yüz filtresi altın rengini üstler, kırışıklıklarınızı düzelterek daha
+            "güzel" görünmenizi sağlar. \n\n Genel olarak, filtreler, Snapchat\’ın daha saldırgan
+            filtrelerinin yaptığı gibi, yüzünü tamamen örterek veya şeklini değiştirmeden hafifçe
+            arttırmak içindir. Bu onları daha az eğlenceli ve dikkat çekici hale getirirken, aynı
+            zamanda daha becerikli ve olgun - onlar yetişkinlerin aslında kullanabileceği bir şey.
+            \n\n Şimdilik, Instagram, Sponsorlu Yüz Filtrelere izin vermeyecek, ancak sonunda
+            Snapchat\’ın benzer reklam birimi ile rekabet edebilecek. En popüler Snapchat Hikayeleri
+            özelliklerinin başarılı bir şekilde klonlanmasıyla, çevrede dünyaya 3 boyutlu artırılmış
+            gerçeklik nesneleri eklemeyi bırakın. \n\n Şimdi, Instagram\’ın kopyalamaya yetmediği
+            için daha yenilik yapması gerektiği için işler daha ilginç hale gelmelidir.
+        </item>
+        <item>Instagram bugün, güncellemeden önceki iki özelliği birbirinden ayırmak yerine, kalıcı
+            metin mesajlarını kaybolan fotoğraflar ve videolarla takip etmeyi kolay bir iş parçacığı
+            haline getiren yeni bir Direkt mesajlaşma güncellemesinin kullanıma sunulduğunu
+            açıkladı. Doğrudan geçen yılda başlatılan iletiler kaybolduğunda, Direk sekmesinin
+            üstünde kendi "Öyküleri" çubuğu verildi. \n\n Kullanıcılar ana Instagram açılış
+            feed\’inde sağdan sola doğru hızlıca kaydırarak Doğrudan\’yı bulabilir ve Direkt\’te
+            sekmenin altındaki mesajlar alanında yeni bir mavi kamera düğmesi bulunur. Burada,
+            kullanıcılar konuşmaya devam etmek için mevcut bir konuya dokunabilir veya yeni bir
+            thread oluşturabilir ve daha sonra kaybolan bir fotoğraf, video veya kalıcı kısa mesaj
+            gönderebilir. Kaybolan mesajlar, kullanıcıları ne tür bir mesaja açacaklarına hazırlamak
+            için gelen kutusunda mavi renkte vurgulanır. \n\n Instagram, Direct\’e odaklanan
+            güncellenmiş güncellemenin geçen Kasım\’dan bu yana mesajlaşma özelliğinin büyümesine
+            verdiği yanıtta, beş ayda 300 milyondan 375 milyona yükseldiğini söyledi. Genel olarak,
+            ortadan kaybolan sohbet özellikleri, çeşitli uygulamalarda, en son olarak Facebook
+            Öyküleri\’nde büyük bir odak noktası haline geldi. \n\n Bugün, herhangi bir sohbeti
+            fotoğraf ve video ile görsel bir sohbet haline dönüştürmenin hızlı ve kolay olmasını
+            sağlamak için yeni Yönlendirmeyi başlatıyoruz. Artık metinler ve yeniden paylaşmalar
+            kaybolan fotoğraflar ve videolarla aynı iş parçacıklarında görünecek; böylece
+            arkadaşlarınızla sorunsuzca ileri geri gidebilirsiniz. \n\n Kasım 2016\’daki son
+            güncellemeden bu yana, Direct kullanan kişi sayısı 300 milyondan 375 milyona yükseldi.
+            Doğrudan arkadaşlarınızla eğlenceli, görsel konuşmalar yapmanın en iyi yer olmasını
+            istiyoruz. Daha fazlası için ayarlanmış kalın. \n\n Instagram\’ın yeni sürümü olan 10.16
+            sürümü, gün boyunca kullanıma sunulacak \n\n Kasım 2016\’daki son güncellemeden bu yana,
+            Direct kullanan kişi sayısı 300 milyondan 375 milyona yükseldi. Doğrudan
+            arkadaşlarınızla eğlenceli, görsel konuşmalar yapmanın en iyi yer olmasını istiyoruz.
+            Daha fazlası için ayarlanmış kalın. \n\n Instagram\’ın 10.16 sürümüyle belirlenen yeni
+            güncellemesi, gün boyunca kullanıma sunulmaya başlanacak.
+        </item>
+        <item>Instagram, hem Hikayeler hem de Doğrudan mesajlaşma bölümlerinde çıkartmalar için yeni
+            özellikler ekleyen bir güncelleme yayınlıyor. Yeni özellikler şehirler için daha özel
+            geosticker\’lar, yeni bir selfie çıkartması ve videolara çıkartmalar eklemeye yönelik
+            daha fazla seçenek sunan "sticker pinning" özelliği içermektedir. \n\n Şirket ayrıca,
+            bugün Hikayeler özelliğinin günlük 200 milyon aktif kullanıcı olduğunu açıkladı. Ocak
+            ayında tekrar açıkladığı 150 milyon kullanıcıdan. \n\n Yeni özelliklere gelince, Selfie
+            Sticker, Öykülerde veya Direkt mesajlarda uygulanabilecek "mini-selfie" yi (yukarıda,
+            solda resimde olduğu gibi) başka bir çıkartma gibi yakalamanızı sağlar: \n\n Hikayenizi
+            bir etiketle çevirmeyi öğrenin, böylece tepkinizi hızla paylaşabilir veya yüzünüzü
+            hikayenizdeki biriyle (veya başka şeylerle) paylaşabilirsiniz. Fotoğraf veya video
+            çekerken ve gülen yüze dokunduğunuzda, bir mini-selfie yakalamanızı sağlayan bir kamera
+            simgesine sahip yeni bir etiket görürsünüz. Yakalamadan önce veya sonra, farklı çerçeve
+            stillerini uygulamak için dokunun: solmaya veya daireye dönüştürün. Selfie etiketinizi
+            herhangi bir yere koyun, boyutunu ayarlayın ve istediğiniz kadar çok yaratıcı araç
+            kullanın. \n\n Ayrıca, yerel sanatçılar tarafından tasarlanan şehir temalı çıkartmaları
+            getiren dört şehrin yeni coğrafyacıları da bugünün güncellemesiyle buluşuyor. Ayrıca,
+            çıkartma panosunun sağında hızlıca kaydırarak yeni çıkan etiketleriniz için yeni bir
+            kısayol bulacaksınız. \n\n Yeni çıkartma türlerine ek olarak, günümüzün
+            güncellemesindeki bir Pinning özelliği, bir videoda belirli bir yere bir çıkartma
+            yapmanıza izin verir ve şirketin Boomerang ve hands-free video özellikleri için de
+            çalışır. Bir çıkartmayı bir videoda yerleştirdikten sonra dokunup basılı tutarak ipucu
+            yerleştirebilirsiniz. \n\n IPhone için Instagram güncellemesi bugün tüm kullanıcılar
+            için kullanıma sunuluyor. Bugünkü güncelleme Instagram için bir iPad uygulaması
+            içermiyor. \n\n • Özel Jeostiskerler: Önümüzdeki günlerde dört yeni şehre geosticker
+            getireceğiz ve eğlenceli yeni bir bükülme ile: hepsi yerel topluluk üyeleri tarafından
+            eve çağırdıkları şehirleri hayata geçirmeye yardımcı olmak için tasarlandı. Çıkartmaya
+            dokunduğunuzda sanatçının kullanıcı adını görebilirsiniz, böylece benzersiz resimler
+            hakkında daha fazla bilgi edinebilirsiniz. \n\n • Selfie çıkartması: Bir fotoğraf /
+            video çektiğinizde ve gülen yüze dokunduğunuzda, bir mini selfie yakalamanızı sağlayan
+            profil fotoğrafınızla birlikte yeni selfie çıkartmasını görürsünüz. Farklı çerçeve
+            stilleri (solmaya veya daireye) uygulamak ve boyut ve yerleşimi ayarlamak için hafifçe
+            dokunun. \n\n • Videolar için tutturucu sabitleme: Videonuzu bir üst seviyeye çıkarmak
+            için, selfie etiketinizi, metin, emoji veya herhangi bir başka çıkartmayı pinleyin. Her
+            videoya birden fazla çıkartma ekleyebilirsiniz. Sticker sabitlemesi Boomerangs için de
+            işe yarar.
+        </item>
+        <item>Fotoğraf paylaşım uygulaması Instagram, çevrimiçi ilan tahtası Pinterest\’e meydan
+            okuyan yeni bir özellik ekledi. \n\n Instagram\’ın kullanıcıları artık gönderilen
+            fotoğraf ve videolarını Pinterest kullanıcılarının bir süredir yapabilecekleri gibi özel
+            koleksiyonda da kaydedebiliyor. Instagram\’daki yayınları kaydetmek, seyahat edilecek
+            yerler veya satın alınacak ürünler gibi gelecek için hatırlamak istedikleri öğeleri yer
+            imi koymanın bir yolunu kullanıcılara verir. \n\n Instagram\’daki değişiklik, Aralık
+            ayında tanıtılan ve arkadaşlarınızdan gönderilen yayınları kaydetmesini sağlayan bir
+            özellik üzerine kuruludur. Facebook\’a ait (FB, 1.04) Instagram, Pazartesi günü yaptığı
+            açıklamada, kullanıcılarının 46\’sından bu yana en az bir tane kaydetmiş olduğunu
+            söyledi. \n\n Artık kullanıcılar kaydedilmiş Instagram gönderilerinin birden çok
+            koleksiyonu oluşturabilir ve bu koleksiyonları adlandırabilir. Şimdilik, koleksiyonlar
+            özel, yani hiç kimse onları oluşturan kullanıcıların yanında göremiyor. Kullanıcıların
+            öğeleri herkese açık olarak paylaşmayı seçebileceği Pinterest\’ten biraz farklıdır. \n\n
+            Instagram, Kopyalama Yaparak Snapchat\’ın Ötesinde Kalabilir mi? \n\n Facebook\’a ait
+            Instagram, Snapchat\’ın Canlı Hikayelerine çok benzeyen yeni bir özellik başlattı. Işe
+            yarayacak mı Fortune\’un Andrew Nusca ve Erin Griffith tartışması. \n\n Instagram, bazı
+            rakiplerinin özelliklerini kopyalamaktan korkmadı. Örneğin mesajlaşma uygulaması
+            Snapchat (SNAP, -3.63) ile rekabet etme arayışında Instagram, bireysel etkinliklerle
+            ilgili fotoğraf ve video toplama ve paylaşma hikayeleri içeren Öyküler dahil bir dizi
+            ayrıntıyı kopyaladı. \n\n Geçen hafta Instagram, mesajlaşma hizmetini mesajlaşma
+            özelliğini kaybolan ve doğrudan mesajlarla bütünleştirerek Snapchat\’lara daha çok
+            benzemek üzere güncelledi.
+        </item>
+        <item>21Facebook\’un Snapchat tarzı güçlendirilmiş gerçeklik yüz filtreleri Instagram\’a
+            geliyor. Birkaç farklı kron, bir insanı bir koala ya da bir tavşana benzeyen kron ve
+            kafanızın etrafında dönen matematik denklemleri gönderen bir sekiz tane de dahil olmak
+            üzere sekiz farklı filtre bugün mevcut olacak. \n\n Instagram\’ın yüz filtreleri
+            telefonunuzda ön veya arka kamerayı kullansanız da çalışır. Bunları, uygulamadaki kamera
+            arayüzünü açıp sağ alt köşedeki yeni simgeye dokunarak bulabilirsiniz. Filtreler
+            Instagram\’ın çekim modlarından herhangi birinde kullanılabilir - fotoğraf, video veya
+            Boomerang. App Store veya Google Play Store\’da yeni 10.21 güncellemesini indirerek
+            onlara erişebilirsiniz. \n\n Bir kullanıcının yüzüne animasyonlar eşlemek ve uygulamak
+            için genişletilmiş gerçeklik teknolojisini kullanma fikri, 2015 yılında teknolojiye
+            öncülük eden Looksery\’yi satın alan Snapchat tarafından yaygınlaştırıldı. Facebook,
+            2016
+            yılının başında Belarus başlangıç MSQRD\’sini yakalayarak yanıt verdi; Tech, bu yılın
+            başlarında Facebook Stories\’e girdi. \n\n Facebook\’un Snap\’tan kaldırdığı ilk
+            fikirden
+            uzaktı - Snapchat\’ın 24 saatlik Öyküler özelliğini Instagram\’a ekleyerek bu dramanın
+            gerçek eriyen çekirdeği oldu - ancak artırılmış gerçeklik yüz filtreleri, Instagram\’ın
+            eksik kalan en büyük blockbuster Snapchat özelliklerinden biriydi. Ayrıca şirketin
+            geçtiğimiz ay yapılan F8 konferansında ayrıntılı olarak ortaya koyduğu Facebook\’un
+            artırılmış gerçeklik için sahip olduğu çok daha büyük vizyonun sadece küçük bir parçası.
+            (Snap, elbette, benzer bir vizyon paylaşıyor.) \n\n Instagram ayrıca bugün uygulamaya
+            birkaç başka özellik ekliyor. Kullanıcılar şimdi, hikayelerine gönderirken bir fotoğrafa
+            veya videoda hashtag "çıkartmalar" ekleyebilecek. İzleyiciler, aynı etiketle paylaşılan
+            diğer medyaları keşfetmek için bu etiketlere dokunabilir; bu, zaten diğer kullanıcıları
+            etiketleyebilir veya coğrafi etiketleyicileri uygulayabilir. Yeni bir "geri sarma" video
+            özelliği (Snapchat tarafından da "ilham aldı") ve bir silgi de uygulamaya eklendi.
+        </item>
+        <item>Konum etiketleri gibi, kullanıcılar şimdi Hashtag etiketlerini Instagram Hikayelerinde
+            paylaşabilir. Görüntüleyenler hashtag sayfasını ziyaret etmek ve aynı hash etiketi ile
+            paylaşılan diğer medyaları keşfetmek için bu çıkartmalara dokunabilirler. Instagram
+            henüz hashtag sayfalarını hashtag sayfalarında kullanan Hikayeleri kataloglamasa da,
+            gelecekte Hikayeleri hashtag ile arayabilirsiniz. \n\n Instagram Öyküleri\’nde bir
+            hashtag etiketini paylaşmak için, ekranınızın sağ üst köşesindeki çıkartma simgesine
+            dokunup hashtag\’ı seçip özelleştirip hikayene ekleyin. Açıklamalardaki gibi
+            hashtag\’leri
+            de normal metin kullanarak ekleyebilirsiniz. \n\n Bu özellik, Instagram\’daki işletmeler
+            için özellikle harika. Zira markanızın hashtag\’ini tanıtmanın başka bir yolu. Örneğin
+            @cipriani son zamanlarda hashtag #mycipriani ile bir hikaye yayınladı. Hikayeye
+            bakanlar, markalı içeriklerinin geri kalanı ile etkileşimde bulunmak için markalı hash
+            etiketini tıklayabilir. Genel olarak, markalı hashtag\’larınızın farkındalığını
+            artırmanın harika bir yoludur.
+        </item>
+        <item>Instagram Hikayelerindeki çizim araçları oldukça iyi, ancak "geri alma" düğmesiyle
+            başlamadan ziyade küçük bir hatayı silmek için diledi mi? Günümüzün güncellemesiyle,
+            artık sorun değil. Instagram Hikayeleri üzerine yeni silgi aracını tanıtmak. \n\n Silgi
+            aracı tam olarak nasıl olmasını istediğiniz gibi çalışıyor: seçildikten sonra, hikayene
+            eklediğiniz çizimleri silebilirsiniz. Ancak bunu "çizik kart" yaratmak için de
+            kullanabilirsiniz. \n\n Bunu yapmak için, Instagram Öyküleri kamerasını açın ve bir
+            fotoğraf veya video çekin. Ardından, bir çizim aracı seçin ve ekranın tamamını renkle
+            doldurmak için 1-3 saniye boyunca dokunup basılı tutun. Ardından, silgi fırçasını
+            kullanarak fotoğrafınızın veya videonuzun altındaki bölümlerini yaratıcı bir şekilde
+            gösterebilirsiniz. \n\n Bu yeni özellikler, Instagram Hikayelerinize bir ton yaratıcılık
+            katabilir; özellikle işletmeler için, Unicode Hikayelerinde hashtag\’leri
+            paylaşabilmeniz
+            inanılmaz bir fırsattır. İster kampanya, ürün satışı veya etkinlik düzenliyorsanız,
+            takipçilerinizi Instagram Hikayeleri aracılığıyla markalı bir hashtag ile bağlama
+            yeteneği, büyük bir oyun değiştirici olarak kanıtlanabilir.
+        </item>
+        <item>Instagram\’da ana dilinde konuşmacıları takip ederseniz, uygulama şimdi otomatik
+            çeviri
+            içeriyor; takipçileri ve takip ettiğiniz kişilerle anlaşmayı ve iletişimi
+            kolaylaştırıyor. Kullanmak için, İngilizce olmayan herhangi bir metnin altındaki Bkz.
+            ÇEVİRİ bağlantısına dokunmanız yeterlidir.
+        </item>
+        <item>Aralık 2013\’te Instagram, yalnızca bir Instagram kullanıcısına (tüm takipçileriniz
+            yerine) fotoğraf ve video göndermenize olanak tanıyan Instagram Direct\’i kullanıma
+            sundu. Sağ üst köşedeki posta simgesine hafifçe vurun, Yeni Mesaj\’a dokunun, arayan
+            kişileri seçin ya da takipçiler listesinden seçim yapın, fotoğraf ekleyin ya da mesaj
+            yazın, ardından gönder düğmesine dokunun. \n\n Instagram, bu özelliği daha sonraki
+            sürümlerde kısaltmaya ve iyileştirmeye devam etmiştir; buna destek de dahil olmak üzere:
+            \n\n Instagram Doğrudan mesajların kaybolması (Snapchat gibi) \n\n Kitaplığınızdaki
+            fotoğraflar ve videolar \n\n Instagram özet akışınızdaki yayınlar \n\n Profiller, metin,
+            hashtags ve konumlar
+        </item>
+        <item>Sık sık, güzel fotoğraflara ya da sevdiğim videolara rastlarsın. Bazen, geri dönüp bir
+            fotoğrafa bakmak isteyebilirim. Artık Daha Sonradan Kaydet düğmesini kullanabilirsiniz.
+            Herhangi bir fotoğrafın altındaki yer imi simgesine dokunmanız, profil sekmenize
+            gitmeniz ve ardından kayıtlı fotoğraflarınızı ve videolarınızı görüntülemek için yer imi
+            simgesine dokunmanız yeterlidir. \n\n Ayrıca yayınlamayı planladığınız fotoğrafları veya
+            videoları daha sonra kaydedebilirsiniz.
+        </item>
+    </array>
+    <array name="New_Update_Title">
+        <item>1. Yeni Instagram Güncellemesi Snapchat İçin Büyük Bir Sorun</item>
+        <item>2. Instagram, son büyük Snapchat özelliğini kopyalayan selfie filtreleri başlattı.
+        </item>
+        <item>3. Yeni Güncelleştirme, Daimi ve Yok Olan Doğrudan İletileri Bir Dişle Birleştiriyor
+        </item>
+        <item>4. Instagram Öyküleri, günümüzde 200 M günlük kullanıcılara yönelik çıkartmalar için
+            yeni özellikler ekliyor
+        </item>
+        <item>5. Instagram, Pinterest Benzeri Bir Yeni Özellik Gününe Başladı</item>
+        <item>6. Instagram, artırılmış gerçeklik yüz filtreleri ekler</item>
+        <item>7.Hashtag Çıkartmaları ile Instagram Hikayelerinize Daha Fazla Bağlam Ekleme</item>
+        <item>8. Yeni Instagram Öyküleri Silgi Aracıyla Yaratıcı Olun</item>
+        <item>9. Çeviri Desteği</item>
+        <item>10.Instagram Doğrudan Güncellemeler</item>
+        <item>11. Sonradan Yazı Kaydet</item>
+    </array>
+    <array name="Video_Title">
+        <item>1. HOW TO GET MORE INSTAGRAM FOLLOWERS | Tips &amp; Tricks! (2017)</item>
+        <item>2. Instagram Growth Tips in 2017: Top Tools To Organically Grow Your Instagram for
+            Business or Personal
+        </item>
+        <item>3. How I Edit My Instagram Photos 2017</item>
+        <item>4. The 5 Secrets To Growing On Instagram | 2017</item>
+        <item>5. 12 Tips &amp; Tricks for Instagram Users</item>
+        <item>6. 3 Styling Tips to Make Your Instagram Photos Not Suck</item>
+        <item>7. TOP 10 TIPS for NEW Instagram Multiple Photos &amp; Videos In One Post - Feb 2017
+        </item>
+        <item>8. New Cool INSTAGRAM Tricks | Instagram Tricks 2017</item>
+        <item>9. 5 SECRET Tricks Guys use on Instagram (2017)</item>
+        <item>10. INSTAGRAM STORY HACKS em dash tips &amp; tricks</item>
+    </array>
+    <array name="Video_Url">
+        <item>https://www.youtube.com/watch?v=_iTOuEHjGuM</item>
+        <item>https://www.youtube.com/watch?v=zZpJEwd_CJI</item>
+        <item>https://www.youtube.com/watch?v=wJzcgm5JUZE</item>
+        <item>https://www.youtube.com/watch?v=A8tErx7GZm8</item>
+        <item>https://www.youtube.com/watch?v=_j8ogTydZ1k</item>
+        <item>https://www.youtube.com/watch?v=gajBIB8K2SY</item>
+        <item>https://www.youtube.com/watch?v=JdSDPjdx_7o</item>
+        <item>https://www.youtube.com/watch?v=t0-lxhELY14</item>
+        <item>https://www.youtube.com/watch?v=MggN-n5Sinc</item>
+        <item>https://www.youtube.com/watch?v=y_p1kdFD-Uk</item>
+    </array>
+</resources>
